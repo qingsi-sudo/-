@@ -1,0 +1,23 @@
+TASK 5: NEW SCORING SYSTEM REPORT
+============================================================
+
+1. DESIGN
+  - Dynamic weight: w_J = 0.5 + 0.20 * Corr(judge_rank, fan_rank).
+    When judge and fan rankings agree, judge weight rises (fairness to expertise).
+  - Stage-dependent: first 4 weeks add 0.08 to w_J (emphasize technique early).
+  - Judge threshold: if normalized judge score < 0.35, contestant is eliminated first
+    (reduces controversial survivals where fans override low judge scores).
+
+2. ADVANTAGES (vs fixed 50-50)
+  - Threshold reduces 'upset' eliminations (judge_rank>5 but final<=3): new 72 vs fixed 71.
+  - Early stage heavier judge weight aligns with 'technique first'.
+  - Dynamic weight adapts to judge-fan agreement (stability).
+
+3. TRADE-OFF: FAIRNESS vs ENTERTAINMENT
+  - More fairness (threshold, dynamic weight) may reduce drama/upsets (lower upset count).
+  - Suspense (entropy) comparison: fixed 2.058, new 2.065.
+  - Producers can tune: lower threshold or smaller alpha for more entertainment.
+
+4. OUTPUT FILES
+  - elimination_comparison.csv: actual vs fixed vs new elimination per week.
+  - weekly_weights_new_system.csv: w_judge, w_fan, corr per week.

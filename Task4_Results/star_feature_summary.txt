@@ -1,0 +1,32 @@
+Note: For aligned columns, open this file with a monospace font (e.g., Consolas, Courier New) in Notepad, or open the corresponding _coefficients.csv in Excel.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            judge_score   R-squared:                       0.098
+Model:                            OLS   Adj. R-squared:                  0.096
+Method:                 Least Squares   F-statistic:                     75.03
+Date:                Sat, 31 Jan 2026   Prob (F-statistic):           1.81e-60
+Time:                        09:29:49   Log-Likelihood:                -8919.9
+No. Observations:                2777   AIC:                         1.785e+04
+Df Residuals:                    2772   BIC:                         1.788e+04
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const            32.2892      0.922     35.011      0.000      30.481      34.098
+age              -0.2030      0.046     -4.435      0.000      -0.293      -0.113
+age2              0.0008      0.001      1.459      0.145      -0.000       0.002
+I_Athlete         2.8706      0.998      2.877      0.004       0.914       4.827
+age_x_athlete    -0.0985      0.029     -3.390      0.001      -0.155      -0.042
+==============================================================================
+Omnibus:                       58.669   Durbin-Watson:                   0.822
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               62.020
+Skew:                           0.363   Prob(JB):                     3.41e-14
+Kurtosis:                       2.909   Cond. No.                     1.83e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.83e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

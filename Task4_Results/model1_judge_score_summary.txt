@@ -1,0 +1,54 @@
+Note: For aligned columns, open this file with a monospace font (e.g., Consolas, Courier New) in Notepad, or open the corresponding _coefficients.csv in Excel.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            judge_score   R-squared:                       0.413
+Model:                            OLS   Adj. R-squared:                  0.407
+Method:                 Least Squares   F-statistic:                     77.29
+Date:                Sat, 31 Jan 2026   Prob (F-statistic):          5.47e-295
+Time:                        09:29:49   Log-Likelihood:                -8323.8
+No. Observations:                2777   AIC:                         1.670e+04
+Df Residuals:                    2751   BIC:                         1.685e+04
+Df Model:                          25                                         
+Covariance Type:            nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+const                       19.3810      0.551     35.167      0.000      18.300      20.462
+age                         -0.0915      0.008    -11.341      0.000      -0.107      -0.076
+week                         1.1447      0.034     33.192      0.000       1.077       1.212
+I__Actor                     5.1354      0.217     23.706      0.000       4.711       5.560
+I__Athlete                   4.8076      0.218     22.090      0.000       4.381       5.234
+I__Other                     4.6120      0.202     22.823      0.000       4.216       5.008
+I__Singer                    4.8260      0.248     19.485      0.000       4.340       5.312
+P__Artem Chigvintsev         3.6017      0.834      4.319      0.000       1.967       5.237
+P__Cheryl Burke             -0.9384      0.719     -1.306      0.192      -2.348       0.471
+P__Derek Hough               1.4276      0.728      1.960      0.050      -0.001       2.856
+P__Edyta Sliwinska          -3.2226      0.905     -3.562      0.000      -4.997      -1.448
+P__Emma Slater               0.7274      0.800      0.909      0.363      -0.842       2.296
+P__Gleb Savchenko            0.4638      0.843      0.550      0.582      -1.189       2.117
+P__Jenna Johnson            -0.2649      0.902     -0.294      0.769      -2.033       1.504
+P__Karina Smirnoff          -2.3126      0.771     -3.000      0.003      -3.824      -0.801
+P__Kym Johnson              -1.2181      0.809     -1.505      0.132      -2.805       0.369
+P__Lindsay Arnold           -0.3126      0.832     -0.376      0.707      -1.944       1.319
+P__Louis van Amstel         -2.2488      0.872     -2.580      0.010      -3.958      -0.540
+P__Maksim Chmerkoskiy       -0.1767      0.768     -0.230      0.818      -1.683       1.330
+P__Mark Ballas               0.7213      0.726      0.993      0.321      -0.703       2.145
+P__Other                    -1.4047      0.653     -2.152      0.031      -2.684      -0.125
+P__Peta Murgatroyd           0.1627      0.792      0.205      0.837      -1.390       1.716
+P__Sasha Farber              1.4529      0.798      1.821      0.069      -0.112       3.018
+P__Sharna Burgess            1.0364      0.799      1.297      0.195      -0.530       2.603
+P__Tony Dovolani            -0.9199      0.772     -1.191      0.234      -2.434       0.594
+P__Valentin Chmerkovskiy     2.5763      0.733      3.515      0.000       1.139       4.013
+P__Witney Carson             2.2652      0.782      2.895      0.004       0.731       3.799
+==============================================================================
+Omnibus:                       85.439   Durbin-Watson:                   0.943
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               92.785
+Skew:                           0.445   Prob(JB):                     7.11e-21
+Kurtosis:                       2.896   Cond. No.                     1.38e+17
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.18e-28. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

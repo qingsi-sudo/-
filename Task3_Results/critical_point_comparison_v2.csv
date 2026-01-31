@@ -1,0 +1,5 @@
+contestant,season,actual_placement,first_elim_week_pct,first_elim_week_rank,same_outcome,times_in_bottom2,judge_tiebreaker_saves,judge_tiebreaker_eliminations,judge_tiebreaker_net_effect,min_safety_margin_pct,avg_safety_margin_pct,num_critical_weeks,critical_weeks
+Jerry Rice,2,2,,7,False,1,0,1,-1,11.003081238597396,43.120242046941314,0,
+Billy Ray Cyrus,4,5,8.0,2,False,3,0,2,-2,11.358986976178539,23.659896505451577,1,8
+Bristol Palin,11,3,,9,False,2,0,2,-2,9.074711897384454,34.33408518257312,1,10
+Bobby Bones,27,1,,8,False,1,0,1,-1,13.743926129548342,28.236136775166358,0,

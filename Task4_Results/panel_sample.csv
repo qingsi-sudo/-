@@ -1,0 +1,501 @@
+season,week,celebrity_name,judge_score,fan_votes,log_fan_votes,age,industry_raw,partner,placement,industry_cat,judge_score_avg,I__Actor,I__Athlete,I__Other,I__Singer
+1,1,John O'Hurley,20.0,1.0,0.6931471805599453,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,2,John O'Hurley,26.0,2173470.0,14.59183598678689,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,3,John O'Hurley,24.0,2581152.0,14.763746756292889,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,4,John O'Hurley,21.0,3016808.0,14.91971020821539,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,5,John O'Hurley,27.0,1.0,0.6931471805599453,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,6,John O'Hurley,27.0,1.0,0.6931471805599453,50.0,Actor/Actress,Charlotte Jorgensen,2,Actor,24.166666666666668,True,False,False,False
+1,1,Kelly Monaco,13.0,1.0,0.6931471805599453,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,2,Kelly Monaco,17.0,1905712.0,14.460366774733542,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,3,Kelly Monaco,21.0,2429038.0,14.703006263845532,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,4,Kelly Monaco,26.0,3302432.0,15.010170027511958,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,5,Kelly Monaco,23.5,1.0,0.6931471805599453,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,6,Kelly Monaco,27.5,1.0,0.6931471805599453,29.0,Actor/Actress,Alec Mazo,1,Actor,21.333333333333332,True,False,False,False
+1,1,Evander Holyfield,18.0,1.0,0.6931471805599453,42.0,Athlete,Edyta Sliwinska,3,Athlete,15.0,False,True,False,False
+1,2,Evander Holyfield,14.0,1816459.0,14.4124001100321,42.0,Athlete,Edyta Sliwinska,3,Athlete,15.0,False,True,False,False
+1,3,Evander Holyfield,13.0,596290.0,13.29848408192334,42.0,Athlete,Edyta Sliwinska,3,Athlete,15.0,False,True,False,False
+1,1,Rachel Hunter,20.0,1.0,0.6931471805599453,35.0,Model,Jonathan Roberts,4,Other,23.75,False,False,True,False
+1,2,Rachel Hunter,24.0,1626129.0,14.301713516693507,35.0,Model,Jonathan Roberts,4,Other,23.75,False,False,True,False
+1,3,Rachel Hunter,26.0,2001071.0,14.50919359492753,35.0,Model,Jonathan Roberts,4,Other,23.75,False,False,True,False
+1,4,Rachel Hunter,25.0,743008.0,13.518463436681715,35.0,Model,Jonathan Roberts,4,Other,23.75,False,False,True,False
+1,1,Joey McIntyre,20.0,1.0,0.6931471805599453,32.0,Singer/Rapper,Ashly DelGrosso,3,Singer,21.1,False,False,False,True
+1,2,Joey McIntyre,21.0,2024716.0,14.520940495669985,32.0,Singer/Rapper,Ashly DelGrosso,3,Singer,21.1,False,False,False,True
+1,3,Joey McIntyre,22.0,2392446.0,14.68782724950379,32.0,Singer/Rapper,Ashly DelGrosso,3,Singer,21.1,False,False,False,True
+1,4,Joey McIntyre,20.0,2937750.0,14.893154880592691,32.0,Singer/Rapper,Ashly DelGrosso,3,Singer,21.1,False,False,False,True
+1,5,Joey McIntyre,22.5,1.0,0.6931471805599453,32.0,Singer/Rapper,Ashly DelGrosso,3,Singer,21.1,False,False,False,True
+1,1,Trista Sutter,18.0,1.0,0.6931471805599453,32.0,TV Personality,Louis van Amstel,2,Other,18.5,False,False,True,False
+1,2,Trista Sutter,19.0,453510.0,13.024774804031475,32.0,TV Personality,Louis van Amstel,2,Other,18.5,False,False,True,False
+2,1,Tatum O'Neal,23.0,1294425.0,14.073577911611208,42.0,Actor/Actress,Nick Kosovich,2,Actor,20.0,True,False,False,False
+2,2,Tatum O'Neal,17.0,387012.0,12.866213563178995,42.0,Actor/Actress,Nick Kosovich,2,Actor,20.0,True,False,False,False
+2,1,Tia Carrere,20.0,666472.0,13.409754907652811,39.0,Actor/Actress,Maksim Chmerkoskiy,5,Actor,23.0,True,False,False,False
+2,2,Tia Carrere,22.0,745081.0,13.52124955841885,39.0,Actor/Actress,Maksim Chmerkoskiy,5,Actor,23.0,True,False,False,False
+2,3,Tia Carrere,26.0,881116.0,13.688945699732932,39.0,Actor/Actress,Maksim Chmerkoskiy,5,Actor,23.0,True,False,False,False
+2,4,Tia Carrere,25.0,1033503.0,13.848465528439963,39.0,Actor/Actress,Maksim Chmerkoskiy,5,Actor,23.0,True,False,False,False
+2,5,Tia Carrere,22.0,330124.0,12.707226649599434,39.0,Actor/Actress,Maksim Chmerkoskiy,5,Actor,23.0,True,False,False,False
+2,1,George Hamilton,18.0,1199941.0,13.997783780256801,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,2,George Hamilton,22.0,1383723.0,14.14028897330723,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,3,George Hamilton,22.0,1584056.0,14.275499835557554,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,4,George Hamilton,21.0,1797173.0,14.401725989124907,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,5,George Hamilton,24.0,2073831.0,14.544908661597738,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,6,George Hamilton,23.0,748408.0,13.525704898964493,66.0,Actor/Actress,Edyta Sliwinska,6,Actor,21.666666666666668,True,False,False,False
+2,1,Lisa Rinna,19.0,656297.0,13.394370233070305,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,2,Lisa Rinna,20.0,724904.0,13.493795890768286,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,3,Lisa Rinna,25.0,861446.0,13.666368812454053,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,4,Lisa Rinna,26.0,1046810.0,13.86125895779843,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,5,Lisa Rinna,25.0,1152447.0,13.957398933529177,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,6,Lisa Rinna,27.0,1406462.0,14.156588600131617,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,7,Lisa Rinna,26.5,522721.0,13.166805052967767,42.0,Actor/Actress,Louis van Amstel,7,Actor,24.071428571428573,True,False,False,False
+2,1,Stacy Keibler,22.0,1275528.0,14.05887155248743,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,2,Stacy Keibler,29.0,1514878.0,14.23084612574919,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,3,Stacy Keibler,27.0,1738279.0,14.36840667654957,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,4,Stacy Keibler,26.0,1931615.0,14.473867516235684,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,5,Stacy Keibler,30.0,2235207.0,14.619844846576497,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,6,Stacy Keibler,30.0,2721073.0,14.816537213279448,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,7,Stacy Keibler,27.5,3273520.0,15.001376721994685,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,8,Stacy Keibler,28.6665,1.0,0.6931471805599453,26.0,Athlete,Tony Dovolani,3,Athlete,27.520812499999998,False,True,False,False
+2,1,Jerry Rice,21.0,1256632.0,14.043946479946285,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,2,Jerry Rice,23.0,1402460.0,14.153739108505722,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,3,Jerry Rice,19.0,1491518.0,14.215305621709305,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,4,Jerry Rice,24.0,1797489.0,14.401901805279527,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,5,Jerry Rice,23.0,2048761.0,14.53274626625304,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,6,Jerry Rice,23.0,2455715.0,14.713928926383755,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,7,Jerry Rice,20.5,2951494.0,14.897822379607575,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,8,Jerry Rice,26.666600000000003,1.0,0.6931471805599453,43.0,Athlete,Anna Trebunskaya,2,Athlete,22.520825000000002,False,True,False,False
+2,1,Giselle Fernandez,23.0,995711.0,13.811213338126391,44.0,News Anchor,Jonathan Roberts,3,Other,23.0,False,False,True,False
+2,2,Giselle Fernandez,24.0,1093228.0,13.90464626030952,44.0,News Anchor,Jonathan Roberts,3,Other,23.0,False,False,True,False
+2,3,Giselle Fernandez,22.0,355006.0,12.779892786573008,44.0,News Anchor,Jonathan Roberts,3,Other,23.0,False,False,True,False
+2,1,Master P,12.0,1086561.0,13.898529141017402,35.0,Singer/Rapper,Ashly DelGrosso,4,Singer,12.5,False,False,False,True
+2,2,Master P,16.0,1271304.0,14.055554489912467,35.0,Singer/Rapper,Ashly DelGrosso,4,Singer,12.5,False,False,False,True
+2,3,Master P,14.0,1415277.0,14.162836536193568,35.0,Singer/Rapper,Ashly DelGrosso,4,Singer,12.5,False,False,False,True
+2,4,Master P,8.0,438241.0,12.990526548195874,35.0,Singer/Rapper,Ashly DelGrosso,4,Singer,12.5,False,False,False,True
+2,1,Drew Lachey,24.0,1313322.0,14.08807112455475,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,2,Drew Lachey,27.0,1477405.0,14.205798405257102,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,3,Drew Lachey,27.0,1673297.0,14.330307087239017,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,4,Drew Lachey,28.0,1955166.0,14.485986169748237,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,5,Drew Lachey,27.0,2159627.0,14.585446542606176,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,6,Drew Lachey,30.0,2668339.0,14.796967114180198,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,7,Drew Lachey,27.5,3252263.0,14.994861927166662,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,8,Drew Lachey,28.9998,1.0,0.6931471805599453,29.0,Singer/Rapper,Cheryl Burke,1,Singer,27.437475,False,False,False,True
+2,1,Kenny Mayne,13.0,255105.0,12.449434424041469,46.0,Sports Broadcaster,Andrea Hale,1,Athlete,13.0,False,True,False,False
+3,1,Harry Hamlin,17.0,1073924.0,13.886830719210316,54.0,Actor/Actress,Ashly DelGrosso,3,Actor,20.0,True,False,False,False
+3,2,Harry Hamlin,21.0,1203405.0,14.000666427629318,54.0,Actor/Actress,Ashly DelGrosso,3,Actor,20.0,True,False,False,False
+3,3,Harry Hamlin,22.0,422237.0,12.953324415083266,54.0,Actor/Actress,Ashly DelGrosso,3,Actor,20.0,True,False,False,False
+3,1,Vivica A. Fox,22.0,1160573.0,13.964425268281957,42.0,Actor/Actress,Nick Kosovich,4,Actor,24.25,True,False,False,False
+3,2,Vivica A. Fox,24.0,1251756.0,14.040058722347515,42.0,Actor/Actress,Nick Kosovich,4,Actor,24.25,True,False,False,False
+3,3,Vivica A. Fox,27.0,1471605.0,14.201864879399334,42.0,Actor/Actress,Nick Kosovich,4,Actor,24.25,True,False,False,False
+3,4,Vivica A. Fox,24.0,492772.0,13.107803900739437,42.0,Actor/Actress,Nick Kosovich,4,Actor,24.25,True,False,False,False
+3,1,Monique Coleman,19.0,596929.0,13.299555132568754,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,2,Monique Coleman,26.0,691379.0,13.446444879236115,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,3,Monique Coleman,27.0,831246.0,13.630682261923132,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,4,Monique Coleman,24.0,901582.0,13.711907386161705,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,5,Monique Coleman,27.0,1065408.0,13.8788693209608,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,6,Monique Coleman,23.0,1.0,0.6931471805599453,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,7,Monique Coleman,27.0,1423771.0,14.168820245775155,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,8,Monique Coleman,26.5,510152.0,13.142465959709506,25.0,Actor/Actress,Louis van Amstel,8,Actor,24.9375,True,False,False,False
+3,1,Joey Lawrence,21.0,1143243.0,13.949380393310598,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,2,Joey Lawrence,29.0,1332341.0,14.102448853882853,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,3,Joey Lawrence,22.0,1461589.0,14.195035442205342,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,4,Joey Lawrence,27.0,1658909.0,14.3216713181531,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,5,Joey Lawrence,25.0,1942734.0,14.479607332027655,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,6,Joey Lawrence,24.0,1.0,0.6931471805599453,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,7,Joey Lawrence,28.5,2679372.0,14.801093369891365,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,8,Joey Lawrence,27.0,3171180.0,14.969614631677052,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,9,Joey Lawrence,29.5,1.0,0.6931471805599453,30.0,Actor/Actress,Edyta Sliwinska,3,Actor,25.88888888888889,True,False,False,False
+3,1,Mario Lopez,26.0,1229892.0,14.02243773169467,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,2,Mario Lopez,21.0,1203405.0,14.000666427629318,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,3,Mario Lopez,22.0,1285657.0,14.066781207509127,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,4,Mario Lopez,29.0,1641831.0,14.311323249509137,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,5,Mario Lopez,27.0,1959311.0,14.488103949176452,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,6,Mario Lopez,28.0,1.0,0.6931471805599453,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,7,Mario Lopez,28.0,2655936.0,14.792308069417622,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,8,Mario Lopez,28.5,3174097.0,14.970534055458256,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,9,Mario Lopez,29.5,1.0,0.6931471805599453,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,10,Mario Lopez,29.666600000000003,1.0,0.6931471805599453,32.0,Actor/Actress,Karina Smirnoff,2,Actor,26.866660000000003,True,False,False,False
+3,1,Emmitt Smith,24.0,1195233.0,13.9938525400779,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,2,Emmitt Smith,24.0,1251756.0,14.040058722347515,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,3,Emmitt Smith,19.0,1299667.0,14.077619405200176,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,4,Emmitt Smith,24.0,1536603.0,14.245085344562094,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,5,Emmitt Smith,27.0,1930356.0,14.473215517868734,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,6,Emmitt Smith,25.0,1.0,0.6931471805599453,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,7,Emmitt Smith,28.5,2661687.0,14.794471065959199,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,8,Emmitt Smith,27.0,3144569.0,14.961187713808714,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,9,Emmitt Smith,29.5,1.0,0.6931471805599453,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,10,Emmitt Smith,29.666600000000003,1.0,0.6931471805599453,37.0,Athlete,Cheryl Burke,1,Athlete,25.76666,False,True,False,False
+3,1,Shanna Moakler,18.0,839426.0,13.640474795197056,31.0,Model,Jesse DeSoto,2,Other,20.0,False,False,True,False
+3,2,Shanna Moakler,22.0,281428.0,12.547635474500337,31.0,Model,Jesse DeSoto,2,Other,20.0,False,False,True,False
+3,1,Willa Ford,22.0,1160573.0,13.964425268281957,25.0,Singer/Rapper,Maksim Chmerkoskiy,5,Singer,24.4,False,False,False,True
+3,2,Willa Ford,23.0,1235639.0,14.027099612438796,25.0,Singer/Rapper,Maksim Chmerkoskiy,5,Singer,24.4,False,False,False,True
+3,3,Willa Ford,22.0,1366857.0,14.12802523320734,25.0,Singer/Rapper,Maksim Chmerkoskiy,5,Singer,24.4,False,False,False,True
+3,4,Willa Ford,28.0,1667368.0,14.326757492966221,25.0,Singer/Rapper,Maksim Chmerkoskiy,5,Singer,24.4,False,False,False,True
+3,5,Willa Ford,27.0,596480.0,13.29880266754005,25.0,Singer/Rapper,Maksim Chmerkoskiy,5,Singer,24.4,False,False,False,True
+3,1,Sara Evans,15.0,559604.0,13.234986456687086,35.0,Singer/Rapper,Tony Dovolani,10,Singer,21.0,False,False,False,True
+3,2,Sara Evans,21.0,647987.0,13.381627456644424,35.0,Singer/Rapper,Tony Dovolani,10,Singer,21.0,False,False,False,True
+3,3,Sara Evans,25.0,803060.0,13.596185955174453,35.0,Singer/Rapper,Tony Dovolani,10,Singer,21.0,False,False,False,True
+3,4,Sara Evans,20.0,868322.0,13.674319044238748,35.0,Singer/Rapper,Tony Dovolani,10,Singer,21.0,False,False,False,True
+3,5,Sara Evans,24.0,1028810.0,13.843914324476762,35.0,Singer/Rapper,Tony Dovolani,10,Singer,21.0,False,False,False,True
+3,1,Jerry Springer,16.0,812765.0,13.608198524222765,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,2,Jerry Springer,19.0,900900.0,13.711150652640026,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,3,Jerry Springer,21.0,1058078.0,13.871965557799923,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,4,Jerry Springer,22.0,1232608.0,14.024643619122434,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,5,Jerry Springer,24.0,1476898.0,14.205455177320259,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,6,Jerry Springer,18.0,1.0,0.6931471805599453,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,7,Jerry Springer,23.0,579232.0,13.269460093568744,62.0,TV Personality,Kym Johnson,7,Other,20.428571428571427,False,False,True,False
+3,1,Tucker Carlson,12.0,227832.0,12.33636818341917,37.0,TV Personality,Elena Grinenko,1,Other,12.0,False,False,True,False
+4,1,John Ratzenberger,17.0,1.0,0.6931471805599453,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,2,John Ratzenberger,21.0,646175.0,13.37882719147855,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,3,John Ratzenberger,20.0,713242.0,13.477577454796952,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,4,John Ratzenberger,16.0,751723.0,13.530124514286587,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,5,John Ratzenberger,18.0,858707.0,13.663184213025703,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,6,John Ratzenberger,19.0,1012452.0,13.827886657132314,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,7,John Ratzenberger,22.5,357944.0,12.788134622295427,59.0,Actor/Actress,Edyta Sliwinska,7,Actor,19.071428571428573,True,False,False,False
+4,1,Ian Ziering,21.0,1.0,0.6931471805599453,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,2,Ian Ziering,22.0,655030.0,13.392437841741717,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,3,Ian Ziering,24.0,731765.0,13.503216069706273,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,4,Ian Ziering,24.0,843875.0,13.645760843353097,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,5,Ian Ziering,24.0,951772.0,13.766081839962732,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,6,Ian Ziering,24.0,1087954.0,13.899810345248547,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,7,Ian Ziering,27.0,1262329.0,14.048469777599713,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,8,Ian Ziering,23.5,1400988.0,14.152688973753703,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,9,Ian Ziering,29.0,503899.0,13.13013311466869,42.0,Actor/Actress,Cheryl Burke,9,Actor,24.27777777777778,True,False,False,False
+4,1,Clyde Drexler,16.0,1.0,0.6931471805599453,44.0,Athlete,Elena Grinenko,5,Athlete,15.6,False,True,False,False
+4,2,Clyde Drexler,18.0,1150702.0,13.955883617916868,44.0,Athlete,Elena Grinenko,5,Athlete,15.6,False,True,False,False
+4,3,Clyde Drexler,16.0,1225792.0,14.019098539461092,44.0,Athlete,Elena Grinenko,5,Athlete,15.6,False,True,False,False
+4,4,Clyde Drexler,15.0,1347711.0,14.113918897776376,44.0,Athlete,Elena Grinenko,5,Athlete,15.6,False,True,False,False
+4,5,Clyde Drexler,13.0,443921.0,13.003404150305908,44.0,Athlete,Elena Grinenko,5,Athlete,15.6,False,True,False,False
+4,1,Laila Ali,23.0,1.0,0.6931471805599453,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,2,Laila Ali,27.0,1298714.0,14.07688587204303,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,3,Laila Ali,21.0,1343284.0,14.110628664458572,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,4,Laila Ali,21.0,1453902.0,14.189762222333028,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,5,Laila Ali,28.0,1815583.0,14.411917737011848,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,6,Laila Ali,28.0,2137440.0,14.57511987707292,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,7,Laila Ali,29.5,2427545.0,14.702391428504637,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,8,Laila Ali,26.5,2700735.0,14.80903488642054,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,9,Laila Ali,30.0,3158994.0,14.96576449700361,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,10,Laila Ali,28.333200000000005,1.0,0.6931471805599453,29.0,Athlete,Maksim Chmerkoskiy,3,Athlete,26.233320000000003,False,True,False,False
+4,1,Apolo Anton Ohno,21.0,1.0,0.6931471805599453,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,2,Apolo Anton Ohno,26.0,1282268.0,14.06414172284499,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,3,Apolo Anton Ohno,23.0,1393943.0,14.147647697329255,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,4,Apolo Anton Ohno,26.0,1599460.0,14.28517725545488,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,5,Apolo Anton Ohno,30.0,1927160.0,14.471558493465333,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,6,Apolo Anton Ohno,28.0,2170969.0,14.59068463024814,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,7,Apolo Anton Ohno,27.0,2375273.0,14.680623357217506,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,8,Apolo Anton Ohno,29.0,2776207.0,14.836596525755764,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,9,Apolo Anton Ohno,29.5,3178112.0,14.971798182400724,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,10,Apolo Anton Ohno,29.3332,1.0,0.6931471805599453,24.0,Athlete,Julianne Hough,1,Athlete,26.883319999999998,False,True,False,False
+4,1,Shandi Finnessey,19.0,1.0,0.6931471805599453,28.0,Beauty Pagent,Brian Fortuna,3,Other,20.0,False,False,True,False
+4,2,Shandi Finnessey,20.0,910457.0,13.721703048585024,28.0,Beauty Pagent,Brian Fortuna,3,Other,20.0,False,False,True,False
+4,3,Shandi Finnessey,21.0,301046.0,12.615021677720868,28.0,Beauty Pagent,Brian Fortuna,3,Other,20.0,False,False,True,False
+4,1,Paulina Porizkova,19.0,1.0,0.6931471805599453,41.0,Model,Alec Mazo,2,Other,20.0,False,False,True,False
+4,2,Paulina Porizkova,21.0,276932.0,12.531530878656136,41.0,Model,Alec Mazo,2,Other,20.0,False,False,True,False
+4,1,Heather Mills,18.0,1.0,0.6931471805599453,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,2,Heather Mills,24.0,961059.0,13.775792120967028,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,3,Heather Mills,24.0,1097130.0,13.908209148718475,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,4,Heather Mills,23.0,1212396.0,14.008109949731843,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,5,Heather Mills,21.0,1318391.0,14.091923370157769,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,6,Heather Mills,23.0,460486.0,13.040039904094437,39.0,Model,Jonathan Roberts,6,Other,22.166666666666668,False,False,True,False
+4,1,Billy Ray Cyrus,13.0,1.0,0.6931471805599453,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,2,Billy Ray Cyrus,21.0,646175.0,13.37882719147855,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,3,Billy Ray Cyrus,21.0,751126.0,13.529330024305342,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,4,Billy Ray Cyrus,21.0,835767.0,13.636106341591546,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,5,Billy Ray Cyrus,17.0,884598.0,13.692889713961282,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,6,Billy Ray Cyrus,21.0,1051633.0,13.865855703000257,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,7,Billy Ray Cyrus,19.0,1165280.0,13.968472817614218,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,8,Billy Ray Cyrus,19.0,397250.0,12.892323601702277,45.0,Singer/Rapper,Karina Smirnoff,8,Singer,19.0,False,False,False,True
+4,1,Joey Fatone,24.0,1.0,0.6931471805599453,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,2,Joey Fatone,24.0,1249377.0,14.038156385434519,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,3,Joey Fatone,24.0,1345537.0,14.112304491039403,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,4,Joey Fatone,28.0,1620360.0,14.298159521889705,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,5,Joey Fatone,25.0,1799864.0,14.403222220053753,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,6,Joey Fatone,27.0,2079063.0,14.547428350397116,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,7,Joey Fatone,29.5,2411626.0,14.695812181421262,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,8,Joey Fatone,27.5,2724818.0,14.817912561855094,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,9,Joey Fatone,30.0,3158994.0,14.96576449700361,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,10,Joey Fatone,28.6665,1.0,0.6931471805599453,30.0,Singer/Rapper,Kym Johnson,2,Singer,26.76665,False,False,False,True
+4,1,Leeza Gibbons,15.0,1.0,0.6931471805599453,50.0,TV Personality,Tony Dovolani,4,Other,19.0,False,False,True,False
+4,2,Leeza Gibbons,21.0,923107.0,13.735501516390695,50.0,TV Personality,Tony Dovolani,4,Other,19.0,False,False,True,False
+4,3,Leeza Gibbons,24.0,1097130.0,13.908209148718475,50.0,TV Personality,Tony Dovolani,4,Other,19.0,False,False,True,False
+4,4,Leeza Gibbons,16.0,334801.0,12.721294591295266,50.0,TV Personality,Tony Dovolani,4,Other,19.0,False,False,True,False
+5,1,Cameron Mathison,21.0,582374.0,13.274869849119098,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,2,Cameron Mathison,21.0,635513.0,13.36218939926671,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,3,Cameron Mathison,23.0,709208.0,13.471905543456998,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,4,Cameron Mathison,27.0,840390.0,13.641622538709537,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,5,Cameron Mathison,26.0,978479.0,13.793755626161245,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,6,Cameron Mathison,25.0,1148616.0,13.954069167929655,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,7,Cameron Mathison,25.5,1333279.0,14.103152629616034,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,8,Cameron Mathison,25.5,461451.0,13.042133318848379,38.0,Actor/Actress,Edyta Sliwinska,8,Actor,24.25,True,False,False,False
+5,1,Jane Seymour,24.0,606991.0,13.31627089038312,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,2,Jane Seymour,21.0,635513.0,13.36218939926671,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,3,Jane Seymour,27.0,722867.0,13.490981911858386,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,4,Jane Seymour,26.0,836270.0,13.636708002216896,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,5,Jane Seymour,26.0,959479.0,13.774146750022966,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,6,Jane Seymour,22.0,1095040.0,13.906302363454143,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,7,Jane Seymour,25.0,389814.0,12.87342754658766,56.0,Actor/Actress,Tony Dovolani,7,Actor,24.428571428571427,True,False,False,False
+5,1,Sabrina Bryan,26.0,1157747.0,13.961987296852843,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,2,Sabrina Bryan,26.0,1262791.0,14.04883570051762,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,3,Sabrina Bryan,27.0,1383987.0,14.140479744601931,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,4,Sabrina Bryan,30.0,1603515.0,14.287709276238312,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,5,Sabrina Bryan,28.0,1842357.0,14.426556830876189,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,6,Sabrina Bryan,25.0,632414.0,13.357301103201245,23.0,Actor/Actress,Mark Ballas,6,Actor,27.0,True,False,False,False
+5,1,Jennie Garth,21.0,582374.0,13.274869849119098,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,2,Jennie Garth,21.0,635513.0,13.36218939926671,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,3,Jennie Garth,26.0,736220.0,13.509285624377608,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,4,Jennie Garth,27.0,856977.0,13.661167526305254,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,5,Jennie Garth,25.0,966836.0,13.781785197662533,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,6,Jennie Garth,27.0,1171032.0,13.97339682322462,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,7,Jennie Garth,26.5,1357626.0,14.121248880742103,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,8,Jennie Garth,25.0,1533632.0,14.243149988478933,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,9,Jennie Garth,29.0,550106.0,13.217868083741687,35.0,Actor/Actress,Derek Hough,9,Actor,25.27777777777778,True,False,False,False
+5,1,Floyd Mayweather Jr.,18.0,1035834.0,13.850718422708058,30.0,Athlete,Karina Smirnoff,4,Athlete,20.75,False,True,False,False
+5,2,Floyd Mayweather Jr.,21.0,1180239.0,13.981228365591448,30.0,Athlete,Karina Smirnoff,4,Athlete,20.75,False,True,False,False
+5,3,Floyd Mayweather Jr.,21.0,1322168.0,14.094784127834561,30.0,Athlete,Karina Smirnoff,4,Athlete,20.75,False,True,False,False
+5,4,Floyd Mayweather Jr.,23.0,449793.0,13.016544979156489,30.0,Athlete,Karina Smirnoff,4,Athlete,20.75,False,True,False,False
+5,1,Josie Maran,16.0,232005.0,12.354518512382995,29.0,Model,Alec Mazo,1,Other,16.0,False,False,True,False
+5,1,Albert Reed,21.0,831963.0,13.631544449636436,22.0,Model,Anna Trebunskaya,2,Other,21.0,False,False,True,False
+5,2,Albert Reed,21.0,272363.0,12.51489468593347,22.0,Model,Anna Trebunskaya,2,Other,21.0,False,False,True,False
+5,1,Helio Castroneves,25.0,878852.0,13.68637292718702,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,2,Helio Castroneves,27.0,984078.0,13.799461457364604,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,3,Helio Castroneves,24.0,1046538.0,13.860999087254536,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,4,Helio Castroneves,27.0,1176862.0,13.978362981846615,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,5,Helio Castroneves,23.0,1321756.0,14.094472470092752,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,6,Helio Castroneves,28.0,1652160.0,14.317594685941494,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,7,Helio Castroneves,26.0,1909436.0,14.462318992173342,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,8,Helio Castroneves,28.5,2250832.0,14.626810927887488,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,9,Helio Castroneves,30.0,2643217.0,14.78750767221297,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,10,Helio Castroneves,27.999900000000004,1.0,0.6931471805599453,32.0,Racing Driver,Julianne Hough,1,Other,26.649990000000003,False,False,True,False
+5,1,Mel B,24.0,1127269.0,13.93530933841913,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,2,Mel B,23.0,1213260.0,14.008822333783131,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,3,Mel B,27.0,1370148.0,14.130430051014551,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,4,Mel B,26.0,1553073.0,14.255746750705852,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,5,Mel B,29.0,1845497.0,14.428259717734454,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,6,Mel B,30.0,2258623.0,14.630266336266788,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,7,Mel B,27.0,2535768.0,14.746007502062383,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,8,Mel B,28.0,2926381.0,14.889277405697689,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,9,Mel B,30.0,3440440.0,15.05111021880738,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,10,Mel B,28.333199999999998,1.0,0.6931471805599453,32.0,Singer/Rapper,Maksim Chmerkoskiy,2,Singer,27.23332,False,False,False,True
+5,1,Wayne Newton,19.0,1051073.0,13.86532305651464,65.0,Singer/Rapper,Cheryl Burke,3,Singer,17.333333333333332,False,False,False,True
+5,2,Wayne Newton,15.0,1081177.0,13.893561745415665,65.0,Singer/Rapper,Cheryl Burke,3,Singer,17.333333333333332,False,False,False,True
+5,3,Wayne Newton,18.0,355246.0,12.780568601166477,65.0,Singer/Rapper,Cheryl Burke,3,Singer,17.333333333333332,False,False,False,True
+5,1,Marie Osmond,21.0,1081551.0,13.893907604587849,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,2,Marie Osmond,24.0,1229770.0,14.022338531153375,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,3,Marie Osmond,26.0,1408284.0,14.157883209989746,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,4,Marie Osmond,26.0,1573374.0,14.268733551593806,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,5,Marie Osmond,21.0,1700767.0,14.346590471717375,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,6,Marie Osmond,23.0,2042111.0,14.529495124390692,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,7,Marie Osmond,26.0,2474074.0,14.721377146753973,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,8,Marie Osmond,24.5,2827702.0,14.854975279267078,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,9,Marie Osmond,28.0,3366234.0,15.029305467100988,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,10,Marie Osmond,23.0,1.0,0.6931471805599453,47.0,Singer/Rapper,Jonathan Roberts,3,Singer,24.25,False,False,False,True
+5,1,Mark Cuban,21.0,831963.0,13.631544449636436,49.0,TV Personality,Kym Johnson,5,Other,20.4,False,False,True,False
+5,2,Mark Cuban,18.0,869776.0,13.675992135935628,49.0,TV Personality,Kym Johnson,5,Other,20.4,False,False,True,False
+5,3,Mark Cuban,20.0,945329.0,13.75928935186674,49.0,TV Personality,Kym Johnson,5,Other,20.4,False,False,True,False
+5,4,Mark Cuban,22.0,1109741.0,13.919638113839481,49.0,TV Personality,Kym Johnson,5,Other,20.4,False,False,True,False
+5,5,Mark Cuban,21.0,384826.0,12.860549161632314,49.0,TV Personality,Kym Johnson,5,Other,20.4,False,False,True,False
+6,1,Cristian de la Fuente,21.0,1.0,0.6931471805599453,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,2,Cristian de la Fuente,20.0,1145291.0,13.951170184291998,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,3,Cristian de la Fuente,25.0,1475935.0,14.20480292276886,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,4,Cristian de la Fuente,26.0,1718738.0,14.357101440376539,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,5,Cristian de la Fuente,23.0,1838762.0,14.424603620893187,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,6,Cristian de la Fuente,27.0,2097260.0,14.556142765658429,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,7,Cristian de la Fuente,23.0,2295890.0,14.646631561427078,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,8,Cristian de la Fuente,28.5,2739883.0,14.823426141701646,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,9,Cristian de la Fuente,28.0,3192821.0,14.976415723196554,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,10,Cristian de la Fuente,26.0,1.0,0.6931471805599453,34.0,Actor/Actress,Cheryl Burke,3,Actor,24.75,True,False,False,False
+6,1,Steve Guttenberg,18.0,1.0,0.6931471805599453,49.0,Actor/Actress,Anna Trebunskaya,3,Actor,18.333333333333332,True,False,False,False
+6,2,Steve Guttenberg,16.0,1079820.0,13.892305844623147,49.0,Actor/Actress,Anna Trebunskaya,3,Actor,18.333333333333332,True,False,False,False
+6,3,Steve Guttenberg,21.0,415888.0,12.938173676715687,49.0,Actor/Actress,Anna Trebunskaya,3,Actor,18.333333333333332,True,False,False,False
+6,1,Priscilla Presley,24.0,1.0,0.6931471805599453,62.0,Actor/Actress,Louis van Amstel,5,Actor,22.8,True,False,False,False
+6,2,Priscilla Presley,21.0,625509.0,13.346322595971541,62.0,Actor/Actress,Louis van Amstel,5,Actor,22.8,True,False,False,False
+6,3,Priscilla Presley,26.0,788637.0,13.578062685924628,62.0,Actor/Actress,Louis van Amstel,5,Actor,22.8,True,False,False,False
+6,4,Priscilla Presley,22.0,870129.0,13.676397904755277,62.0,Actor/Actress,Louis van Amstel,5,Actor,22.8,True,False,False,False
+6,5,Priscilla Presley,21.0,279731.0,12.541587280940522,62.0,Actor/Actress,Louis van Amstel,5,Actor,22.8,True,False,False,False
+6,1,Marlee Matlin,22.0,1.0,0.6931471805599453,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,2,Marlee Matlin,24.0,651949.0,13.387723150851619,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,3,Marlee Matlin,21.0,776934.0,13.563111970766847,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,4,Marlee Matlin,24.0,874191.0,13.681055310145503,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,5,Marlee Matlin,22.0,963443.0,13.778269643715165,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,6,Marlee Matlin,21.0,312920.0,12.653706041498884,42.0,Actor/Actress,Fabian Sanchez,6,Actor,22.333333333333332,True,False,False,False
+6,1,Shannon Elizabeth,21.0,1.0,0.6931471805599453,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,2,Shannon Elizabeth,24.0,651949.0,13.387723150851619,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,3,Shannon Elizabeth,24.0,816271.0,13.612502911736364,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,4,Shannon Elizabeth,28.0,941270.0,13.754986368604332,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,5,Shannon Elizabeth,23.0,999762.0,13.815273529875336,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,6,Shannon Elizabeth,24.0,1090352.0,13.902012054987203,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,7,Shannon Elizabeth,25.5,378288.0,12.843413732746605,34.0,Actor/Actress,Derek Hough,7,Actor,24.214285714285715,True,False,False,False
+6,1,Marissa Jaret Winokur,18.0,1.0,0.6931471805599453,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,2,Marissa Jaret Winokur,21.0,625509.0,13.346322595971541,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,3,Marissa Jaret Winokur,19.0,763404.0,13.545543968918137,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,4,Marissa Jaret Winokur,24.0,885925.0,13.694388704654413,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,5,Marissa Jaret Winokur,24.0,1007343.0,13.822827722104547,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,6,Marissa Jaret Winokur,26.0,1134032.0,13.941290863375523,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,7,Marissa Jaret Winokur,26.0,1289259.0,14.06957896833067,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,8,Marissa Jaret Winokur,25.0,1442631.0,14.181979780976768,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,9,Marissa Jaret Winokur,26.0,503952.0,13.13023828873683,35.0,Actor/Actress,Tony Dovolani,9,Actor,23.22222222222222,True,False,False,False
+6,1,Jason Taylor,22.0,1.0,0.6931471805599453,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,2,Jason Taylor,27.0,1259866.0,14.046516717800726,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,3,Jason Taylor,23.0,1525351.0,14.237735761061018,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,4,Jason Taylor,29.0,1745206.0,14.372383731225153,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,5,Jason Taylor,27.0,1949344.0,14.483003976677852,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,6,Jason Taylor,24.0,2049047.0,14.532885853008144,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,7,Jason Taylor,27.5,2388604.0,14.686220071490668,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,8,Jason Taylor,26.0,2690939.0,14.805401132916435,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,9,Jason Taylor,27.5,3148226.0,14.962349995195412,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,10,Jason Taylor,28.5,1.0,0.6931471805599453,33.0,Athlete,Edyta Sliwinska,2,Athlete,26.15,False,True,False,False
+6,1,Kristi Yamaguchi,27.0,1.0,0.6931471805599453,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,2,Kristi Yamaguchi,27.0,1259866.0,14.046516717800726,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,3,Kristi Yamaguchi,27.0,1528973.0,14.240107480188465,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,4,Kristi Yamaguchi,29.0,1733648.0,14.365738993687168,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,5,Kristi Yamaguchi,29.0,1947460.0,14.482037030852583,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,6,Kristi Yamaguchi,30.0,2169579.0,14.590044158396639,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,7,Kristi Yamaguchi,27.0,2382832.0,14.68380067389375,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,8,Kristi Yamaguchi,27.5,2694312.0,14.806653813316439,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,9,Kristi Yamaguchi,28.5,3154999.0,14.96449905395745,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,10,Kristi Yamaguchi,30.0,1.0,0.6931471805599453,36.0,Athlete,Mark Ballas,1,Athlete,28.2,False,True,False,False
+6,1,Monica Seles,15.0,1.0,0.6931471805599453,34.0,Athlete,Jonathan Roberts,2,Athlete,15.0,False,True,False,False
+6,2,Monica Seles,15.0,319035.0,12.673059228064176,34.0,Athlete,Jonathan Roberts,2,Athlete,15.0,False,True,False,False
+6,1,Penn Jillette,16.0,1.0,0.6931471805599453,53.0,Magician,Kym Johnson,2,Other,16.5,False,False,True,False
+6,2,Penn Jillette,17.0,843221.0,13.644985547510462,53.0,Magician,Kym Johnson,2,Other,16.5,False,False,True,False
+6,1,Adam Carolla,15.0,1.0,0.6931471805599453,43.0,Radio Personality,Julianne Hough,4,Other,18.5,False,False,True,False
+6,2,Adam Carolla,19.0,868403.0,13.674412323147937,43.0,Radio Personality,Julianne Hough,4,Other,18.5,False,False,True,False
+6,3,Adam Carolla,21.0,1131669.0,13.939204975810586,43.0,Radio Personality,Julianne Hough,4,Other,18.5,False,False,True,False
+6,4,Adam Carolla,19.0,368433.0,12.817016870092795,43.0,Radio Personality,Julianne Hough,4,Other,18.5,False,False,True,False
+6,1,Mario,24.0,1.0,0.6931471805599453,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,2,Mario,26.0,669576.0,13.414401448702472,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,3,Mario,21.0,776934.0,13.563111970766847,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,4,Mario,24.0,862457.0,13.667541731049806,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,5,Mario,27.0,1014151.0,13.829563353279847,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,6,Mario,28.0,1146807.0,13.952492988900051,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,7,Mario,25.5,1265124.0,14.050681489491202,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+6,8,Mario,26.5,432232.0,12.976720073680168,21.0,Singer/Rapper,Karina Smirnoff,8,Singer,25.25,False,False,False,True
+7,1,Ted McGinley,18.5,324908.0,12.691300422104556,50.0,Actor/Actress,Inna Brayer,1,Actor,18.5,True,False,False,False
+7,1,Cloris Leachman,16.0,560291.0,13.236213355386122,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,2,Cloris Leachman,15.0,661477.0,13.402232004236552,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,3,Cloris Leachman,16.0,1.0,0.6931471805599453,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,4,Cloris Leachman,22.0,852490.0,13.655917930899331,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,5,Cloris Leachman,21.0,1003867.0,13.819371096486748,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,6,Cloris Leachman,15.0,314305.0,12.658122312644808,82.0,Actor/Actress,Corky Ballas,6,Actor,17.5,True,False,False,False
+7,1,Susan Lucci,18.5,583168.0,13.276232303256949,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,2,Susan Lucci,21.0,725616.0,13.49477760639505,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,3,Susan Lucci,21.0,1.0,0.6931471805599453,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,4,Susan Lucci,24.0,889924.0,13.698892468494513,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,5,Susan Lucci,22.0,1014290.0,13.829700404210257,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,6,Susan Lucci,23.0,1163455.0,13.966905444077733,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,7,Susan Lucci,24.0,402188.0,12.904677406369357,61.0,Actor/Actress,Tony Dovolani,7,Actor,21.928571428571427,True,False,False,False
+7,1,Cody Linley,20.5,601469.0,13.307131937841335,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,2,Cody Linley,21.0,725616.0,13.49477760639505,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,3,Cody Linley,21.0,1.0,0.6931471805599453,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,4,Cody Linley,23.0,866792.0,13.672555472931068,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,5,Cody Linley,28.0,1075513.0,13.8883092448065,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,6,Cody Linley,23.0,1181813.0,13.982561104159641,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,7,Cody Linley,22.0,1299006.0,14.077110684398802,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,8,Cody Linley,24.0,1512447.0,14.229240088130833,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,9,Cody Linley,23.0,532297.0,13.18495876187406,18.0,Actor/Actress,Julianne Hough,9,Actor,22.833333333333332,True,False,False,False
+7,1,Misty May-Treanor,21.0,606044.0,13.314709519720248,31.0,Athlete,Maksim Chmerkoskiy,10,Athlete,21.0,False,True,False,False
+7,2,Misty May-Treanor,21.0,725616.0,13.49477760639505,31.0,Athlete,Maksim Chmerkoskiy,10,Athlete,21.0,False,True,False,False
+7,1,Maurice Greene,19.5,592318.0,13.291800620089237,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,2,Maurice Greene,19.0,704237.0,13.464871646189826,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,3,Maurice Greene,24.0,1.0,0.6931471805599453,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,4,Maurice Greene,20.0,854533.0,13.658311570096705,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,5,Maurice Greene,27.0,1052344.0,13.866531565285065,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,6,Maurice Greene,21.0,1150849.0,13.95601135775184,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,7,Maurice Greene,25.0,1343775.0,14.110994119508133,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,8,Maurice Greene,24.0,458897.0,13.036583242125444,34.0,Athlete,Cheryl Burke,8,Athlete,22.4375,False,True,False,False
+7,1,Warren Sapp,21.5,1134008.0,13.941269699746277,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,2,Warren Sapp,24.0,1407132.0,14.15706485899228,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,3,Warren Sapp,25.0,1.0,0.6931471805599453,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,4,Warren Sapp,22.0,1620137.0,14.2980218887657,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,5,Warren Sapp,25.0,1907753.0,14.461437191860467,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,6,Warren Sapp,25.0,2217315.0,14.611808013398456,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,7,Warren Sapp,21.0,2389842.0,14.686738231373416,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,8,Warren Sapp,27.0,2893190.0,14.877870603209994,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,9,Warren Sapp,24.5,3372362.0,15.031124243555455,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,10,Warren Sapp,27.5,1.0,0.6931471805599453,35.0,Athlete,Kym Johnson,2,Athlete,24.25,False,True,False,False
+7,1,Jeffrey Ross,12.0,748128.0,13.525330701980165,43.0,Comedian,Edyta Sliwinska,1,Other,12.0,False,False,True,False
+7,1,Toni Braxton,22.5,1151001.0,13.95614342532197,40.0,Singer/Rapper,Alec Mazo,5,Singer,22.3,False,False,False,True
+7,2,Toni Braxton,23.0,1387279.0,14.142855553472431,40.0,Singer/Rapper,Alec Mazo,5,Singer,22.3,False,False,False,True
+7,3,Toni Braxton,22.0,1.0,0.6931471805599453,40.0,Singer/Rapper,Alec Mazo,5,Singer,22.3,False,False,False,True
+7,4,Toni Braxton,22.0,1577918.0,14.271617448272007,40.0,Singer/Rapper,Alec Mazo,5,Singer,22.3,False,False,False,True
+7,5,Toni Braxton,22.0,548605.0,13.2151357943562,40.0,Singer/Rapper,Alec Mazo,5,Singer,22.3,False,False,False,True
+7,1,Lance Bass,21.5,1134008.0,13.941269699746277,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,2,Lance Bass,20.0,1327721.0,14.098975249754996,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,3,Lance Bass,22.0,1.0,0.6931471805599453,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,4,Lance Bass,26.0,1673612.0,14.330495320508996,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,5,Lance Bass,21.0,1850750.0,14.43110206062669,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,6,Lance Bass,27.0,2238046.0,14.621114168527146,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,7,Lance Bass,25.0,2528691.0,14.743212730967736,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,8,Lance Bass,25.0,2858642.0,14.86585759467243,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,9,Lance Bass,28.5,3517208.0,15.073178335337344,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,10,Lance Bass,27.5,1.0,0.6931471805599453,29.0,Singer/Rapper,Lacey Schwimmer,3,Singer,24.35,False,False,False,True
+7,1,Kim Kardashian,18.5,833097.0,13.63290656128793,27.0,TV Personality,Mark Ballas,2,Other,17.75,False,False,True,False
+7,2,Kim Kardashian,17.0,292653.0,12.586746302830297,27.0,TV Personality,Mark Ballas,2,Other,17.75,False,False,True,False
+7,1,Rocco DiSpirito,17.5,820025.0,13.617091326054842,41.0,TV Personality,Karina Smirnoff,4,Other,17.875,False,False,True,False
+7,2,Rocco DiSpirito,16.0,960239.0,13.774938532199226,41.0,TV Personality,Karina Smirnoff,4,Other,17.875,False,False,True,False
+7,3,Rocco DiSpirito,20.0,1.0,0.6931471805599453,41.0,TV Personality,Karina Smirnoff,4,Other,17.875,False,False,True,False
+7,4,Rocco DiSpirito,18.0,351533.0,12.77006171386223,41.0,TV Personality,Karina Smirnoff,4,Other,17.875,False,False,True,False
+7,1,Brooke Burke,24.5,911530.0,13.722880882396366,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,2,Brooke Burke,24.0,1082409.0,13.894700594524789,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,3,Brooke Burke,28.0,1.0,0.6931471805599453,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,4,Brooke Burke,26.0,1313056.0,14.08786856437617,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,5,Brooke Burke,29.0,1546874.0,14.251747324739192,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,6,Brooke Burke,26.0,1734215.0,14.36606599603879,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,7,Brooke Burke,30.0,2036495.0,14.52674124191449,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,8,Brooke Burke,27.5,2276822.0,14.638291608164101,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,9,Brooke Burke,24.5,2578131.0,14.762575663653012,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+7,10,Brooke Burke,30.0,1.0,0.6931471805599453,37.0,TV Personality,Derek Hough,1,Other,26.95,False,False,True,False
+8,1,Gilles Marini,24.0,1.0,0.6931471805599453,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,2,Gilles Marini,27.0,1146951.0,13.95261854693593,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,3,Gilles Marini,27.0,1279115.0,14.061679772304498,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,4,Gilles Marini,30.0,1423719.0,14.168783722406516,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,5,Gilles Marini,29.0,1794817.0,14.400414182006262,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,6,Gilles Marini,26.0,1990048.0,14.503669819513108,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,7,Gilles Marini,27.0,2191023.0,14.599879572419939,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,8,Gilles Marini,27.5,2519670.0,14.739638895408932,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,9,Gilles Marini,28.0,2903403.0,14.881394399703632,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,10,Gilles Marini,30.0,3466265.0,15.058588491840887,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,11,Gilles Marini,29.0,1.0,0.6931471805599453,33.0,Actor/Actress,Cheryl Burke,2,Actor,27.681818181818183,True,False,False,False
+8,1,Denise Richards,18.0,1.0,0.6931471805599453,38.0,Actor/Actress,Maksim Chmerkoskiy,3,Actor,18.333333333333332,True,False,False,False
+8,2,Denise Richards,21.0,1054658.0,13.868728049895758,38.0,Actor/Actress,Maksim Chmerkoskiy,3,Actor,18.333333333333332,True,False,False,False
+8,3,Denise Richards,16.0,328476.0,12.702222099234922,38.0,Actor/Actress,Maksim Chmerkoskiy,3,Actor,18.333333333333332,True,False,False,False
+8,1,David Alan Grier,19.0,1.0,0.6931471805599453,52.0,Actor/Actress,Kym Johnson,5,Actor,20.8,True,False,False,False
+8,2,David Alan Grier,17.0,993130.0,13.808617857790425,52.0,Actor/Actress,Kym Johnson,5,Actor,20.8,True,False,False,False
+8,3,David Alan Grier,24.0,1169226.0,13.971853404665561,52.0,Actor/Actress,Kym Johnson,5,Actor,20.8,True,False,False,False
+8,4,David Alan Grier,22.0,1300461.0,14.078230143912995,52.0,Actor/Actress,Kym Johnson,5,Actor,20.8,True,False,False,False
+8,5,David Alan Grier,22.0,486092.0,13.09415524260071,52.0,Actor/Actress,Kym Johnson,5,Actor,20.8,True,False,False,False
+8,1,Lawrence Taylor,16.0,1.0,0.6931471805599453,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,2,Lawrence Taylor,20.0,559610.0,13.234997178478054,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,3,Lawrence Taylor,20.0,631713.0,13.356192039060078,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,4,Lawrence Taylor,19.0,667269.0,13.410950040590516,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,5,Lawrence Taylor,20.0,849647.0,13.652577425049047,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,6,Lawrence Taylor,22.0,1014160.0,13.829572227649829,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,7,Lawrence Taylor,21.0,334077.0,12.719129777628398,50.0,Athlete,Edyta Sliwinska,7,Athlete,19.714285714285715,False,True,False,False
+8,1,Ty Murray,14.0,1.0,0.6931471805599453,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,2,Ty Murray,20.0,559610.0,13.234997178478054,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,3,Ty Murray,23.0,671698.0,13.417565602493985,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,4,Ty Murray,25.0,747705.0,13.52476513156461,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,5,Ty Murray,21.0,894994.0,13.704573410649209,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,6,Ty Murray,18.0,972308.0,13.787428934157253,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,7,Ty Murray,24.0,1146954.0,13.952621162560714,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,8,Ty Murray,26.0,1360109.0,14.123076136794374,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,9,Ty Murray,23.0,1507915.0,14.226239123080802,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,10,Ty Murray,24.0,529919.0,13.180481330738978,39.0,Athlete,Chelsie Hightower,10,Athlete,21.8,False,True,False,False
+8,1,Shawn Johnson,23.0,1.0,0.6931471805599453,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,2,Shawn Johnson,24.0,1100804.0,13.911552288302063,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,3,Shawn Johnson,27.0,1254277.0,14.042070666195388,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,4,Shawn Johnson,25.0,1344929.0,14.111852525054044,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,5,Shawn Johnson,26.0,1696692.0,14.344191620366836,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,6,Shawn Johnson,26.0,1974439.0,14.495795371807276,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,7,Shawn Johnson,28.0,2223353.0,14.614527424532819,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,8,Shawn Johnson,26.0,2490836.0,14.728129356535272,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,9,Shawn Johnson,28.0,2899805.0,14.880154396167304,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,10,Shawn Johnson,28.0,3399889.0,15.039253636121845,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,11,Shawn Johnson,30.0,1.0,0.6931471805599453,17.0,Athlete,Mark Ballas,1,Athlete,26.454545454545453,False,True,False,False
+8,1,Steve Wozniak,13.0,1.0,0.6931471805599453,58.0,Entrepreneur,Karina Smirnoff,4,Other,13.0,False,False,True,False
+8,2,Steve Wozniak,17.0,763946.0,13.54625369401458,58.0,Entrepreneur,Karina Smirnoff,4,Other,13.0,False,False,True,False
+8,3,Steve Wozniak,10.0,772391.0,13.55724747215505,58.0,Entrepreneur,Karina Smirnoff,4,Other,13.0,False,False,True,False
+8,4,Steve Wozniak,12.0,245805.0,12.412297885905653,58.0,Entrepreneur,Karina Smirnoff,4,Other,13.0,False,False,True,False
+8,1,Belinda Carlisle,17.0,1.0,0.6931471805599453,50.0,Singer/Rapper,Jonathan Roberts,2,Singer,17.5,False,False,False,True
+8,2,Belinda Carlisle,18.0,302553.0,12.620015052918285,50.0,Singer/Rapper,Jonathan Roberts,2,Singer,17.5,False,False,False,True
+8,1,Chuck Wicks,20.0,1.0,0.6931471805599453,29.0,Singer/Rapper,Julianne Hough,8,Singer,22.9375,False,False,False,True
+8,2,Chuck Wicks,20.0,559610.0,13.234997178478054,29.0,Singer/Rapper,Julianne Hough,8,Singer,22.9375,False,False,False,True
+8,3,Chuck Wicks,23.0,633678.0,13.35929779605334,29.0,Singer/Rapper,Julianne Hough,8,Singer,22.9375,False,False,False,True
+8,4,Chuck Wicks,22.0,691213.0,13.44620475089649,29.0,Singer/Rapper,Julianne Hough,8,Singer,22.9375,False,False,False,True
+8,5,Chuck Wicks,23.0,879532.0,13.687146363774774,29.0,Singer/Rapper,Julianne Hough,8,Singer,22.9375,False,False,False,True
