@@ -1,0 +1,63 @@
+================================================================================
+TASK 5: HYBRID APPROACH REPORT
+Multi-Objective Optimization + Dynamic Mechanism
+================================================================================
+
+1. THEORETICAL FRAMEWORK
+   Multi-Objective Optimization Problem (MOOP):
+   
+   Decision Variables: x = [w_base, α, τ, δ]^T
+   
+   Objective Functions:
+   - f₁ (Elitism): max E[ρ(R_J, R_final)]
+   - f₂ (Excitement): max P(Survive | J < median)
+   - f₃ (Disaster): min P(Finalist | J = min)
+
+2. IMPLEMENTATION MECHANISM
+   Dynamic Weight System:
+   - w_J = w_base + α × Corr(R_J, R_F)
+   - Stage adjustment: Week 1-2 → w_J += 0.05
+   - Technical floor: norm_judge < τ → danger pool
+   - Judge save: Bottom-δ selection
+
+3. PARETO FRONTIER ANALYSIS
+   Total configurations tested: 252
+   Pareto optimal solutions: 12
+
+4. OPTIMAL SOLUTION (KNEE POINT)
+   w_base = 0.50  (Base judge weight)
+   alpha = 0.10   (Dynamic adjustment)
+   tau = 0.20     (Technical threshold)
+   delta = 0       (Judge save from bottom-0)
+
+   Performance:
+   - Elitism (f₁): 0.655
+   - Excitement (f₂): 0.772
+   - Disaster Rate (f₃): 0.059
+
+5. ADDITIONAL METRICS (Reasonableness Check)
+   Match Rate (vs actual): 95.1%
+   Elasticity: 0.000
+   
+   Note: These metrics are for validation only.
+   The new system is designed to optimize the three objectives,
+   not to replicate historical results. A moderate match rate
+   indicates the system is reasonable but improved.
+
+6. STRATEGIC RECOMMENDATION
+   ADOPT this system because:
+   ✓ Mathematically optimal (Pareto frontier + knee point)
+   ✓ Balances all three objectives
+   ✓ Transparent and explainable
+   ✓ Practically implementable
+   ✓ Robust to fan vote perturbations
+
+7. OUTPUT FILES
+   - all_configurations.csv: Full parameter sweep results
+   - pareto_frontier.csv: Non-dominated solutions
+   - pareto_frontier_3d.png: 3D visualization
+   - trade_off_curves.png: 2D trade-off analysis
+   - sensitivity_heatmap.png: Parameter sensitivity analysis
+   - robustness_test.png: Robustness to perturbations
+   - robustness_test_results.csv: Detailed robustness data
+================================================================================
